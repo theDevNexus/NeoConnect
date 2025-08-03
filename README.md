@@ -1,12 +1,46 @@
-# React + Vite
+# 🚀 NeoConnect – AI Productivity Tools Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+NeoConnect is a modern, responsive web app that brings together a suite of AI-powered tools designed for developers, students, and creators. Built with React and Gemini API, it offers fast, distraction-free utilities right from your browser — no logins or fees required.
 
-Currently, two official plugins are available:
+> ⚡ All tools are frontend-only — clean, fast, and privacy-focused.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🧰 Features & Tools
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Tool Name             | Description                                                                 |
+|----------------------|-----------------------------------------------------------------------------|
+| 📝 Text Summarizer     | Instantly condense long text into concise summaries.                        |
+| 🖼️ Image Captioner     | Upload any image and generate a natural language caption.                   |
+| 💻 Code Explainer      | Paste any code snippet and get an easy-to-understand explanation.           |
+| 🚀 Startup Pitch Writer | Generate compelling startup pitch descriptions based on ideas.             |
+| 📚 Flashcard Generator | Turn notes or topics into flashcards (Q&A format) for fast revision.       |
+| 🧰 Resume Polisher     | Refine your resume bullets with better tone and professional phrasing.     |
+
+---
+
+## 💻 Tech Stack
+
+- ⚛️ React + React Router  
+- 🎨 Tailwind CSS for styling  
+- 🪄 AOS (Animate On Scroll) for scroll animations  
+- 🤖 Google Gemini API (generative-ai SDK) for AI features  
+
+---
+
+
+## 🤝 Contributing
+
+PRs and suggestions are welcome. Open an issue or fork the repo and create a pull request.
+
+---
+
+## 📄 License
+
+MIT License
+
+---
+
+## ✨ Author
+
+Developed by [Aditya](https://github.com/YOUR_USERNAME)
