@@ -28,7 +28,7 @@ export default function HeroSection() {
             Explore Tools
           </a>
           <a
-            href="#"
+            href="https://github.com/theDevNexus/NeoConnect"
             className="border border-gray-700 text-gray-300 hover:bg-gray-800 px-8 py-3 rounded-lg transition font-semibold text-lg" data-aos="zoom-in" data-aos-delay="250"
           >
             View GitHub

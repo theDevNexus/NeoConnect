@@ -8,7 +8,7 @@ export default function Footer() {
         
         <div className="flex gap-5 text-gray-400">
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/theDevNexus/NeoConnect"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white transition duration-300 hover:scale-110"
@@ -16,7 +16,7 @@ export default function Footer() {
             <Github size={24} />
           </a>
           <a
-            href="https://linkedin.com/in/yourusername"
+            href="https://www.linkedin.com/in/aditya-kumar-45aa49283/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white transition duration-300 hover:scale-110"
@@ -24,7 +24,7 @@ export default function Footer() {
             <Linkedin size={24} />
           </a>
           <a
-            href="mailto:your@email.com"
+            href="mailto:adityasuri11ss@gmail.com"
             className="hover:text-white transition duration-300 hover:scale-110"
           >
             <Mail size={24} />

@@ -31,7 +31,7 @@ export default function NavBar({onDemoClick}) {
             </a>
           ))}
           <a
-            href=""
+            href="https://github.com/theDevNexus/NeoConnect"
             className="text-gray-300 hover:text-cyan-400 transition font-medium"
             target="_blank"
           >
