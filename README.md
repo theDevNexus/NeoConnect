@@ -35,12 +35,6 @@ PRs and suggestions are welcome. Open an issue or fork the repo and create a pul
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
 ## ✨ Author
 
-Developed by [Aditya](https://github.com/YOUR_USERNAME)
+Developed by [Aditya](https://github.com/theDevNexus)
